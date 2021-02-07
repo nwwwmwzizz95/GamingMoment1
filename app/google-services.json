@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1075250939451",
+    "project_id": "gamingmoment1-2a2ba",
+    "storage_bucket": "gamingmoment1-2a2ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075250939451:android:52b2ac2f22d55ee4d03e1e",
+        "android_client_info": {
+          "package_name": "com.example.gamingmoment1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075250939451-lsqundidhbj2kleqmm0esebbjb6037p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamingmoment1",
+            "certificate_hash": "89c189e54a90911438dde5160ad8cf8262332d6f"
+          }
+        },
+        {
+          "client_id": "1075250939451-jca41nknq1os0m4bpbam8jcmd5qh6rdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB59HZf_reFf7tAE38zKXuXjjJqCiqXG_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075250939451-jca41nknq1os0m4bpbam8jcmd5qh6rdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
